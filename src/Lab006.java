@@ -1,7 +1,7 @@
 import java.util.Scanner;
 
 /**
- * had to recommit i didnt make spring2023 branch before i commited
+ * had to recommit i didnt make spring2023 branch before i commited unfortunately
  * A class representing a fraction with a numerator and denominator, and methods to check if the numerator is divisible
  * by the denominator.
  *
